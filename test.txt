@@ -1,2 +1,2 @@
 Hej alla!!
-Hej person 1!!!
+Det här kommer bli en merge konfikt.
